@@ -1191,6 +1191,8 @@ date,quarter,department,day,team,targeted_productivity,smv,wip,over_time,incenti
 3/11/2015,Quarter2,sweing,Wednesday,8,0.7,30.48,914,6840,30,0,0,1,57,0.700505263
 3/11/2015,Quarter2,sweing,Wednesday,6,0.7,23.41,1128,4560,40,0,0,1,38,0.700246491
 3/11/2015,Quarter2,sweing,Wednesday,7,0.65,30.48,935,6840,26,0,0,1,57,0.650596491
+3/11/2015,,sweing,Wednesday,7,,30.48,935,6840,26,0,0,1,57,0.650596491
+3/11/2015,Quarter2,finishing,Wednesday,10,0.75,2.9,,960,0,0,0,0,8,0.628333333
 3/11/2015,Quarter2,finishing,Wednesday,10,0.75,2.9,,960,0,0,0,0,8,0.628333333
 3/11/2015,Quarter2,finishing,Wednesday,8,0.7,3.9,,960,0,0,0,0,8,0.625625
 3/11/2015,Quarter2,finishing,Wednesday,7,0.65,3.9,,960,0,0,0,0,8,0.625625
